@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to Linkedin](./https://www.linkedin.com/in/oliwia-fabiszak-152559298/).
+[Link to Linkedin](/https://www.linkedin.com/in/oliwia-fabiszak-152559298/)
 
 There should be whitespace between paragraphs.
 
