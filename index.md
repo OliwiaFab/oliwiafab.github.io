@@ -110,8 +110,6 @@ end
 <dd>2002</dd>
 <dt>Place</dt>
 <dd>Poland</dd>
-<dt>Color</dt>
-<dd>Green</dd>
 </dl>
 
 ```
