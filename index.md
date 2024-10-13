@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 # AI - python
 
-Introduction to AI - [google colabe notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
+Introduction to AI - [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
 
 ## Header 2
 
