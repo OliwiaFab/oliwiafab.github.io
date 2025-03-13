@@ -8,9 +8,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-# python - numPy, Pandas
+# Introduction to AI - python - numPy, Pandas
 
-Introduction to AI - [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
+ [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
 
 ## Incident Response - example MiTM ARP Spoofing to Capture Login Creditentials 
 
