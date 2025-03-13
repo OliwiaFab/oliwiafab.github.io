@@ -99,10 +99,8 @@ end
 <dl>
 <dt>Name</dt>
 <dd>Oliwia</dd>
-<dt>Born</dt>
-<dd>2002</dd>
-<dt>Place</dt>
-<dd>Poland</dd>
+<dt>Surname</dt>
+<dd>Fabiszak</dd>
 </dl>
 
 ```
