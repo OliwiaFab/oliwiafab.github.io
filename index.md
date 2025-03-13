@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
+## [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 
 ## Introduction to AI 
