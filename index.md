@@ -8,15 +8,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-# python - numPy
+# python - numPy, Pandas
 
 Introduction to AI - [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
 
-## Header 2
+## Incident Response - example MiTM ARP Spoofing to Capture Login Creditentials 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> [canva link to presentation](https://www.canva.com/design/DAGg3xtwk3g/seGcPQksFRZj3VtWni0-gw/view?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa552f29fc)
 
 ### Header 3
 
