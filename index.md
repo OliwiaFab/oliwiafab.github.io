@@ -4,10 +4,6 @@ layout: default
 
 
 
-# [Link to Linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/)
-
-
-
 # <h2> Introduction to AI 
 - python - numPy, Pandas </h2>
 
