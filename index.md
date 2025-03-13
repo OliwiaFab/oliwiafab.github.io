@@ -8,11 +8,12 @@ layout: default
 
 
 
-## <h2> Introduction to AI - python - numPy, Pandas </h2>
+# <h2> Introduction to AI 
+- python - numPy, Pandas </h2>
 
- [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
+<i> [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) </i>
 
-## Incident Response - example MiTM ARP Spoofing to Capture Login Creditentials 
+# <h2> Incident Response - example MiTM ARP Spoofing to Capture Login Creditentials </h2>
 
 > [canva link to presentation](https://www.canva.com/design/DAGg3xtwk3g/seGcPQksFRZj3VtWni0-gw/view?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa552f29fc)
 
