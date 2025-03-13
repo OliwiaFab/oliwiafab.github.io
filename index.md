@@ -5,12 +5,12 @@ layout: default
 # [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 
-# Introduction to AI 
+## Introduction to AI 
 - python - numPy, Pandas
+> [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
 
-[google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
-
-Incident Response - example MiTM ARP Spoofing to Capture Login Creditentials
+## Incident Response 
+- example MiTM ARP Spoofing to Capture Login Creditentials
 
 > [canva link to presentation](https://www.canva.com/design/DAGg3xtwk3g/seGcPQksFRZj3VtWni0-gw/view?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa552f29fc)
 
