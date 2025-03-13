@@ -4,11 +4,11 @@ layout: default
 
 
 
-[Link to Linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/)
+# [Link to Linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/)
 
 
 
-# Introduction to AI - python - numPy, Pandas
+## Introduction to AI - python - numPy, Pandas
 
  [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing) 
 
