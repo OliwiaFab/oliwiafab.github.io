@@ -13,7 +13,7 @@ layout: default
 > [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
 
 - basics
-> [google colab notebook](basica.ipynb)
+> [google colab notebook]()
 
 ## Incident Response 
 - example MiTM ARP Spoofing to Capture Login Creditentials
