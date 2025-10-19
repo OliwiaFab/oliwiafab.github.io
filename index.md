@@ -12,7 +12,7 @@ layout: default
 - numPy, Pandas
 > [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
 
--basics
+- basics
 > [google colab notebook](basica.ipynb)
 
 ## Incident Response 
