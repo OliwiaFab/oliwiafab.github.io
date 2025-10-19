@@ -8,10 +8,12 @@ layout: default
 ## [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 
-## Introduction to AI 
-- python - numPy, Pandas
-
+## Introduction to AI - python
+- numPy, Pandas
 > [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
+
+-basics
+> [google colab notebook](basica.ipynb)
 
 ## Incident Response 
 - example MiTM ARP Spoofing to Capture Login Creditentials
