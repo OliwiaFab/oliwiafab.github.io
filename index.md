@@ -2,13 +2,10 @@
 layout: default
 ---
 
-# GitHub page
-
-
 ## [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 ## UX/UI
-* [figma simple functionality for people with difficulties](https://www.figma.com/slides/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-145&t=Vyp8AGBtRxKpav3X-1)
+* [figma simple functionality for people with difficulties](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## Introduction to AI - python
 - numPy, Pandas
@@ -16,6 +13,7 @@ layout: default
 
 - basics
 > [google colab notebook](https://colab.research.google.com/drive/1_OhH7IdpljcqgnamGXBjcYFXCQ0nmja-?usp=sharing)
+
 
 ## Incident Response 
 - example MiTM ARP Spoofing to Capture Login Creditentials
