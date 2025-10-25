@@ -11,14 +11,17 @@ layout: default
 
 ## Introduction to AI - python
 - numPy, Pandas
+
 > [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
 
-- basics
+- to be updated...
+
 > [google colab notebook](https://colab.research.google.com/drive/1_OhH7IdpljcqgnamGXBjcYFXCQ0nmja-?usp=sharing)
 
 
 ## Incident Response 
 - example MiTM ARP Spoofing to Capture Login Creditentials
+
 > [canva link to presentation](https://www.canva.com/design/DAGg3xtwk3g/seGcPQksFRZj3VtWni0-gw/viewutm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa552f29fc)
 
 ### Header 3
