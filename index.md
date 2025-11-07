@@ -24,6 +24,13 @@ layout: default
 
 > [canva link to presentation](https://www.canva.com/design/DAGg3xtwk3g/gq5Xd5on8gtq64YfGfItOg/edit?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Scientific Writing 
+> [Using Bauman to Understand Uncertainty, Social Breakdown, and Modern Insecurity](https://docs.google.com/document/d/1z4JLO0mvkDaG6PnWFkBXp2XxRn_LQCctdzq7GgUFQ04/edit?usp=sharing)
+
+> [Critical Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
+(Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
+
+
 ### Header 3
 
 ```js
