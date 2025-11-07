@@ -3,7 +3,7 @@ layout: default
 ---
 
 # OliwiaHub
-### [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
+## [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 ## UX/UI
 > [figma simple functionality for people with difficulties](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
