@@ -39,7 +39,7 @@ layout: default
 <br>
 <i>Oliwia Fabiszak</i>
 
-<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;">
+<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;   width: 100%; position: absolute; top: -100px; left: 0; right: 0; margin: auto; object-fit: cover; height: auto;">
 
 ### Header 3
 
