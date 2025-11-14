@@ -37,13 +37,10 @@ layout: default
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
 <dl>
-<dd>Name</dd>
-<dt>Oliwia</dt>
-<dd>Surname</dd>
-<dt>Fabiszak</dt>
+<dt>Oliwia</dt> <dt>Fabiszak</dt>
 </dl>
 
-<img src="/art_face.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 800px; object-fit: cover;">
+<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;">
 
 
 
