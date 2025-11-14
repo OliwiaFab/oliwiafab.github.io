@@ -37,6 +37,15 @@ layout: default
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
 
+<img src="/img/header_photo.jpg" alt="Artystyczne zdjęcie profilowe Oliwii Fabiszak z efektem cienia" style="width: 100%; max-height: 400px; object-fit: cover;">
+
+<dl>
+<dt>Name</dt>
+<dd>Oliwia</dd>
+<dt>Surname</dt>
+<dd>Fabiszak</dd>
+</dl>
+
 ### Header 3
 
 ```js
@@ -112,12 +121,6 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Oliwia</dd>
-<dt>Surname</dt>
-<dd>Fabiszak</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
