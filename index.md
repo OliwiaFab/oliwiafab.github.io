@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 
 # OliwiaHub
 ## [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
@@ -40,9 +39,7 @@ layout: default
 <br>
 <i>Oliwia Fabiszak</i>
 
-<div class="image-container">
 <img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;">
-</div>
 
 ### Header 3
 
