@@ -30,7 +30,7 @@ layout: default
 
 > [canva link to the presentation](https://www.canva.com/design/DAGg3xtwk3g/gq5Xd5on8gtq64YfGfItOg/edit?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Scientific Writing 
+## Academic Writing 
 > [Using Bauman to Understand Uncertainty, Social Breakdown, and Modern Insecurity](https://docs.google.com/document/d/1z4JLO0mvkDaG6PnWFkBXp2XxRn_LQCctdzq7GgUFQ04/edit?usp=sharing)
 
 > [Critical Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
@@ -39,7 +39,7 @@ layout: default
 <br>
 <i>Oliwia Fabiszak</i>
 
-<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover; left: 0; right: 0; margin: auto; object-fit: cover; height: auto;">
+<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; object-fit: cover; object-fit: cover; height: auto; width: 100vw;  margin-left: calc(50% - 50vw); margin-right: calc(50% - 50vw); height: 400px; overflow: hidden; position: relative;">
 
  <!-- **### Header 3:** -->
 
