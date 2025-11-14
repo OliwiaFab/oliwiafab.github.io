@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-> [Project: AI RESOURCE EDUCATION GENERATOR (in prgoress...)](https://blustery-mutually-douglas.ngrok-free.dev/)
+> [Project: AI RESOURCE EDUCATION GENERATOR (in progress...)](https://blustery-mutually-douglas.ngrok-free.dev/)
 > > [technical documentation of the v1.0](https://docs.google.com/document/d/1gCSKE7jS6NVhJbZ-jPmW7u_FFbNvDZzSk3Ygo5XeolQ/edit?tab=t.onhyeg190mvl)
 > > 
 > > [design for the v2.0](https://www.figma.com/design/yZzSHHjpmHumXMfeFVyldN/OLIWIA-STRONA?node-id=0-1&t=TMmzyAm6iMReq4i1-1)
