@@ -43,7 +43,7 @@ layout: default
 - Jira (Nokia Certificate)
 - CCNA preparations - now
 - Design Thinking 45h (Course Work BA in Cognitive Science)
-- Mediations and negotiations 30h (Course Work BA of science in Criminology)
+- Mediations and negotiations 30h (Course Work BA of Science in Criminology)
 
 ## Technical tools
 > VS Code, Wing, Cisco Packet Tracer, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
