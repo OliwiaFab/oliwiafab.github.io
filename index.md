@@ -41,7 +41,7 @@ layout: default
 
 <img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover; left: 0; right: 0; margin: auto; object-fit: cover; height: auto;">
 
-`` ### Header 3 ``
+**### Header 3:**
 
 `` js
 // Javascript code with syntax highlighting.
