@@ -7,6 +7,7 @@ layout: default
 
 ## UX/UI
 > [figma simple functionality for people with difficulties](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+<br>
 
 Project: AI RESOURCE EDUCATION GENERATOR
 >  [technical documentation of the v1.0](https://docs.google.com/document/d/1gCSKE7jS6NVhJbZ-jPmW7u_FFbNvDZzSk3Ygo5XeolQ/edit?tab=t.onhyeg190mvl)
