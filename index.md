@@ -6,7 +6,7 @@ layout: default
 > [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 ## UX/UI
-> [Re-design of the cp.pt interfaces + simple functionality for people with difficulties (color motive, text-size adjustment, screen readers, sign languge, availability of infomation) in FIGMA](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+> [Re-design of the Comboios de Portugal's interfaces + simple functionality for people with difficulties (color motive, text-size adjustment, screen readers, sign languge, availability of infomation) in FIGMA](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 <br>
 
