@@ -12,6 +12,7 @@ layout: default
 > > [technical documentation of v1.0](https://docs.google.com/document/d/1gCSKE7jS6NVhJbZ-jPmW7u_FFbNvDZzSk3Ygo5XeolQ/edit?tab=t.onhyeg190mvl)
 > > 
 > > [design for v2.0](https://www.figma.com/design/yZzSHHjpmHumXMfeFVyldN/OLIWIA-STRONA?node-id=0-1&t=TMmzyAm6iMReq4i1-1)
+> >
 > > [in_progress](https://blustery-mutually-douglas.ngrok-free.dev/)
 
 ## Introduction to AI - python
