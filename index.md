@@ -33,7 +33,7 @@ layout: default
 > [Criticl Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
-> [Contemporary Threats of Cyberspace (Thesis from BA of science in Criminology)](https://docs.google.com/document/d/1BTRolZwNwegQcVOoyXMnhyNwDfiNIiwj/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true)
+> [Contemporary Threats of Cyberspace](https://docs.google.com/document/d/1BTRolZwNwegQcVOoyXMnhyNwDfiNIiwj/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true) (Thesis from BA of science in Criminology)
 
 <br>
 <i>Oliwia Fabiszak</i>
