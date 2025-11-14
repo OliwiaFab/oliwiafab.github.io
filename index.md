@@ -38,7 +38,7 @@ layout: default
 ## Technical Skills
 - [Linux Terminal & OS](https://www.linkedin.com/learning/certificates/5b3cbbec849bb2e60f5cf6447012331c4af409537192215e688db4cdd3017ea8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDy5pqnqBST6j79ijoZ5Spw%3D%3D) Hand-on experience: RHEL, Ubuntu.
 - [Cisco Cybersecurity Essentials](https://www.credly.com/badges/de8315d9-c089-4b48-a1a2-33463d6851c1/linked_in_profile)
-- Palo Alto Networks Cybersecurity Fundamentals (Nokia certificate)
+- Palo Alto Networks Cybersecurity Fundamentals
 - Python
 - JS (basic)
 - HTML, CSS
