@@ -40,11 +40,12 @@ layout: default
 - Python
 - JS (basic)
 - HTML, CSS
-- Fixed Networks: FTTx, Optical Fiber, Network Infrastructure
-- Agile, Scrum
-- Jira
+- Fixed Networks: FTTx, Optical Fiber, Network Infrastructure (Nokia certificate)
+- Agile, Scrum (Nokia Certificate)
+- Jira (Nokia Certificate)
 - CCNA preparations - now
-- Design Thinking (45h training)
+- Design Thinking 45h training (Course Work BA in Cognitive Science)
+- Mediations and negotiations 30h (Course Work BA of science in Criminology)
 
 ## Technical tools
 > VS Code, Moba, Wireshark, Putty, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
