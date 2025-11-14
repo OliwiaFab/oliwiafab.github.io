@@ -11,7 +11,7 @@ layout: default
 > > 
 > > [design for the v2.0](https://www.figma.com/design/yZzSHHjpmHumXMfeFVyldN/OLIWIA-STRONA?node-id=0-1&t=TMmzyAm6iMReq4i1-1)
 > >
-
+<br>
 > [Re-design of the Comboios de Portugal's interfaces](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)+ simple functionality for people with difficulties (variety of color schemes, text-size adjustment, screen readers, availability of infomation) in FIGMA
 
 ## Incident Response 
