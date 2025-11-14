@@ -42,8 +42,11 @@ layout: default
 - JS (basic)
 - HTML, CSS
 - Fixed Networks: FTTx, Optical Fiber, Network Infrastructure (Nokia certificate)
+- Palo Alto Networks Cybersecurity Fundamentals (Nokia certificate)
+- Making Sense of Data & AI (Nokia certificate)
 - Agile, Scrum (Nokia Certificate)
 - Jira (Nokia Certificate)
+- Power BI basics (Nokia certificate)
 - CCNA preparations - now
 - Design Thinking 45h (Course Work BA in Cognitive Science)
 - Mediations and negotiations 30h (Course Work BA of Science in Criminology)
@@ -51,7 +54,7 @@ layout: default
 ## Technical tools
 > VS Code, Wing, Cisco Packet Tracer, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
 
-> Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Power BI, LINK AGH
+> Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, LINK AGH
 
 <br>
 <i>Oliwia Fabiszak</i>
