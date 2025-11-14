@@ -44,11 +44,12 @@ layout: default
 - Agile, Scrum
 - Jira
 - CCNA preparations - now
+- Design Thinking (45h training)
 
 ## Technical tools
-> VS Code, Moba, Wireshark, Putty, AMS, Altiplano
+> VS Code, Moba, Wireshark, Putty, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
 
-> Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Share point administration
+> Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Power BI
 
 <br>
 <i>Oliwia Fabiszak</i>
