@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<div class="centered-content">
 # OliwiaHub
 ## [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
+</div>
 
 ## UX/UI
 > [figma simple functionality for people with difficulties](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
@@ -37,9 +39,10 @@ layout: default
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
 <i>Oliwia Fabiszak</i>
+
+<div class="image-container">
 <img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;">
-
-
+</div>
 
 ### Header 3
 
