@@ -47,6 +47,7 @@ layout: default
 
 ## Technical tools
 > VS Code, Moba, Wireshark, Putty, AMS, Altiplano
+
 > Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Share point administration
 
 <br>
