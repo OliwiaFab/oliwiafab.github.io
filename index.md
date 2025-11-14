@@ -39,25 +39,24 @@ layout: default
 <br>
 <i>Oliwia Fabiszak</i>
 
-<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;   width: 100%; left: 0; right: 0; margin: auto; object-fit: cover; height: auto;">
+<img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover; left: 0; right: 0; margin: auto; object-fit: cover; height: auto;">
 
-````
-### Header 3
+`` ### Header 3 ``
 
-```js
+`` js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
-```
+``
 
-```ruby
+`` ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``
 
 #### Header 4
 
@@ -98,6 +97,7 @@ end
 1.  Item three
 1.  Item four
 
+`` 
 ### And a nested list:
 
 - level 1 item
@@ -113,16 +113,17 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
+``
 
 
-### Definition lists can be used with HTML syntax.
+`` ### Definition lists can be used with HTML syntax. ``
 
 
-```
+``
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+``
 
-```
+``
 The final element.
-```
-```
+``
+
