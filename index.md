@@ -43,7 +43,7 @@ layout: default
 <dt>Fabiszak</dt>
 </dl>
 
-<img src="/art_face.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;">
+<img src="/art_face.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 800px; object-fit: cover;">
 
 
 
