@@ -36,10 +36,7 @@ layout: default
 > [Critical Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
-<dl>
-<dt>Oliwia</dt> <dt>Fabiszak</dt>
-</dl>
-
+<i>Oliwia Fabiszak</i>
 <img src="/art_photo_oftheme.jpg" alt="Artistic photo of me" style="width: 100%; max-height: 400px; object-fit: cover;">
 
 
