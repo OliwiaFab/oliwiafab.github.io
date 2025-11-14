@@ -6,7 +6,7 @@ layout: default
 > [linkedin](https://www.linkedin.com/in/oliwia-fabiszak-152559298/) 
 
 ## UX/UI
-> > [figma simple functionality for people with difficulties](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+> [figma simple functionality for people with difficulties](https://www.figma.com/deck/FraLQH8Gc5f6FWv0pUBxTK/ex1-e-ex2?node-id=1-69&t=7b2P5WGrVl5Q5xdn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 <br>
 
@@ -18,19 +18,15 @@ layout: default
 > > [in_progress](https://blustery-mutually-douglas.ngrok-free.dev/)
 
 ## Introduction to AI - python
-- numPy, Pandas
 
-> [google colab notebook](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
+> [numPy, Pandas](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
 
-- to be updated...
-
-> [google colab notebook](https://colab.research.google.com/drive/1_OhH7IdpljcqgnamGXBjcYFXCQ0nmja-?usp=sharing)
+> [basics - to be updated...](https://colab.research.google.com/drive/1_OhH7IdpljcqgnamGXBjcYFXCQ0nmja-?usp=sharing)
 
 
 ## Incident Response 
-- example MiTM ARP Spoofing to Capture Login Creditentials
 
-> [canva link to the presentation](https://www.canva.com/design/DAGg3xtwk3g/gq5Xd5on8gtq64YfGfItOg/edit?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+> [example MiTM ARP Spoofing to Capture Login Creditentials](https://www.canva.com/design/DAGg3xtwk3g/gq5Xd5on8gtq64YfGfItOg/edit?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Academic Writing 
 > [Using Bauman to Understand Uncertainty, Social Breakdown, and Modern Insecurity](https://docs.google.com/document/d/1z4JLO0mvkDaG6PnWFkBXp2XxRn_LQCctdzq7GgUFQ04/edit?usp=sharing)
