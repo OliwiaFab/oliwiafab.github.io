@@ -37,7 +37,7 @@ layout: default
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
 
-<img src="/img/header_photo.jpg" alt="Artystyczne zdjęcie profilowe Oliwii Fabiszak z efektem cienia" style="width: 100%; max-height: 400px; object-fit: cover;">
+<img src="/art_face.jpg" alt="Artistic photo of Oliwia Fabiszak" style="width: 100%; max-height: 400px; object-fit: cover;">
 
 <dl>
 <dt>Name</dt>
