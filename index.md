@@ -44,11 +44,11 @@ layout: default
 - Agile, Scrum (Nokia Certificate)
 - Jira (Nokia Certificate)
 - CCNA preparations - now
-- Design Thinking 45h training (Course Work BA in Cognitive Science)
+- Design Thinking 45h (Course Work BA in Cognitive Science)
 - Mediations and negotiations 30h (Course Work BA of science in Criminology)
 
 ## Technical tools
-> VS Code, Wing, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
+> VS Code, Wing, Cisco Packet Tracer, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
 
 > Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Power BI, LINK AGH
 
