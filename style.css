@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<style>
+  /* 1. KONTENER OBRAZKA: Zapewnia Pełną Szerokość Strony (tzw. "pasek") */
+  .image-container {
+    /* Użycie 100vw i ujemnych marginesów nadpisuje domyślny max-width motywu Jekyll */
+    width: 100vw; 
+    margin-left: calc(50% - 50vw); 
+    margin-right: calc(50% - 50vw);
+
+    /* Kontrola wysokości i przycięcia */
+    height: 400px;           /* USTAW WYSOKOŚĆ PASKA (np. 300px, 400px) */
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Styl dla samego obrazka wewnątrz kontenera */
+  .image-container img {
+    width: 100%;
+    position: absolute;      
+    top: -100px;             /* TUTAJ KONTROLUJESZ PRZYCIĘCIE OD GÓRY! */
+    left: 0;
+    right: 0;
+    margin: auto;
+    object-fit: cover;
+    height: auto;
+  }
+
+  /* 2. KONTENER TEKSTU: Centruje Wszystkie Elementy Tekstowe */
+  .centered-content {
+    text-align: center;
+  }
+</style>
+
