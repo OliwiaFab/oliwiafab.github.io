@@ -16,13 +16,6 @@ layout: default
 > > [design for the v2.0](https://www.figma.com/design/yZzSHHjpmHumXMfeFVyldN/OLIWIA-STRONA?node-id=0-1&t=TMmzyAm6iMReq4i1-1)
 > >
 
-## Introduction to AI - python
-
-> [numPy, Pandas](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
-
-> [basics - to be updated...](https://colab.research.google.com/drive/1_OhH7IdpljcqgnamGXBjcYFXCQ0nmja-?usp=sharing)
-
-
 ## Incident Response 
 
 > [Presentation of the MiTM ARP Spoofing to Capture Login Creditentials](https://www.canva.com/design/DAGg3xtwk3g/gq5Xd5on8gtq64YfGfItOg/edit?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -34,6 +27,12 @@ layout: default
 
 > [Criticl Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
+
+## Introduction to AI - python
+
+> [numPy, Pandas](https://colab.research.google.com/drive/1PBskVaFNtga-Fw1mGAc3T9SyhgGwJQvT?usp=sharing)
+
+> [basics - to be updated...](https://colab.research.google.com/drive/1_OhH7IdpljcqgnamGXBjcYFXCQ0nmja-?usp=sharing)
 
 
 <br>
