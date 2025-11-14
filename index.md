@@ -50,7 +50,7 @@ layout: default
 ## Technical tools
 > VS Code, Wing, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
 
-> Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Power BI
+> Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, Power BI, LINK AGH
 
 <br>
 <i>Oliwia Fabiszak</i>
