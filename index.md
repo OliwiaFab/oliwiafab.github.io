@@ -27,7 +27,7 @@ layout: default
 
 > [Using Bauman to Understand Uncertainty, Social Breakdown, and Modern Insecurity](https://docs.google.com/document/d/1z4JLO0mvkDaG6PnWFkBXp2XxRn_LQCctdzq7GgUFQ04/edit?usp=sharing)
 
-> [Criticl Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
+> [Critical Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
 ## Introduction to AI - python
