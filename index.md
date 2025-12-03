@@ -54,7 +54,7 @@ layout: default
 - Mediations and negotiations 30h (Course Work BA of Science in Criminology)
 
 ## Technical tools
-> VS Code, Wing, Cisco Packet Tracer, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle
+> VS Code, Wing, Cisco Packet Tracer, Moba, Wireshark, PuTTY, AMS, Altiplano, Zabbix, SAP ECC, Prostore Oracle, Splunk (basics)
 
 > Figma, Canva, Autocad (basic), M365 Office proficiency, Google tools, LINK AGH
 
