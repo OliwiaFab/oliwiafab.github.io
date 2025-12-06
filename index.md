@@ -9,8 +9,7 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ## TryHackMe [MyProfileLink](https://tryhackme.com/p/fabiszakoliwia3?tab=completed-rooms) 
-> Advent of cyber
-> Splunk, IDOR....
+> Advent of cyber (Splunk, IDOR...)
 
 ## Incident Response 
 
