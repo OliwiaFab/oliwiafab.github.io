@@ -64,7 +64,7 @@ layout: default
 ## More...
 > [Brain Computer Interface Presentation in Portuguese](https://www.canva.com/design/DAG7aM39DnA/sZC7-B3nYKG8lLLKt2WiSA/edit?utm_content=DAG7aM39DnA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-> [Metodology of Investigation - Neurofeedback in ADHD theraphy](https://www.canva.com/design/DAG51aw6wAc/at8jy_ad36hPMBs6--cuoQ/edit?utm_content=DAG51aw6wAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+> [Metodology of Investigation - Neurofeedback in ADHD theraphy (bilingual PT/EN)](https://www.canva.com/design/DAG51aw6wAc/at8jy_ad36hPMBs6--cuoQ/edit?utm_content=DAG51aw6wAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 <br>
 <i>Oliwia Fabiszak</i>
