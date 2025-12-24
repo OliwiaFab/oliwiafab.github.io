@@ -64,7 +64,9 @@ layout: default
 ## More...
 > [Brain Computer Interface (Presentation in Portuguese)](https://www.canva.com/design/DAG7aM39DnA/sZC7-B3nYKG8lLLKt2WiSA/edit?utm_content=DAG7aM39DnA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-> [Metodology of Investigation - Neurofeedback in ADHD Theraphy (bilingual presentation PT/EN)](https://www.canva.com/design/DAG51aw6wAc/at8jy_ad36hPMBs6--cuoQ/edit?utm_content=DAG51aw6wAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+> [Metodology of Investigation - Neurofeedback in ADHD Theraphy (bilingual presentation PT/EN)](https://www.canva.com/design/DAG51aw6wAc/at8jy_ad36hPMBs6--cuoQ/edit?utm_content=DAG51aw6wAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+> > [Crime in the Metaverse: Virtual Violation, Reflexive Identity, and the Socio-Legal Frontiers of Embodiment](https://docs.google.com/document/d/1UV7IQYoSP9fMcp2zslnB9Y6Mi4el3J_s5-eJ5c6oT4s/edit?usp=sharing)  
 
 <br>
 <i>Oliwia Fabiszak</i>
