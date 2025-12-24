@@ -19,12 +19,17 @@ layout: default
 ## Academic Writing 
 > [Contemporary Threats in Cyberspace (Thesis from BA of science in Criminology)](https://docs.google.com/document/d/1BTRolZwNwegQcVOoyXMnhyNwDfiNIiwj/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true)
 
+> [Project: AI RESOURCE EDUCATION GENERATOR (in progress...)](https://blustery-mutually-douglas.ngrok-free.dev/)
+> > [Polish Version | Wersja Polska](https://docs.google.com/document/d/1nIX4Vgiiyk5H66rMnU04kWXa7Wq8FcXt/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true)
+> >
+> > [technical documentation of the v1.0](https://docs.google.com/document/d/1gCSKE7jS6NVhJbZ-jPmW7u_FFbNvDZzSk3Ygo5XeolQ/edit?tab=t.onhyeg190mvl)
+<br>
+
 > [Using Bauman to Understand Uncertainty, Social Breakdown, and Modern Insecurity](https://docs.google.com/document/d/1z4JLO0mvkDaG6PnWFkBXp2XxRn_LQCctdzq7GgUFQ04/edit?usp=sharing)
 
 > [Critical Review: Patterns of suicide mortality in England and Wales before and after the suicide of the actor Robin Williams 
 (Pitman, A., Fink, D. S., & Whitley, R., 2021)](https://docs.google.com/document/d/1piItPyQhFOfg8VqQ-LOhMrmUX1s3Pk6VBF-kinTY4zs/edit?usp=sharing)
 
-> > [Polish Version | Wersja Polska](https://docs.google.com/document/d/1nIX4Vgiiyk5H66rMnU04kWXa7Wq8FcXt/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true)
 
 ## UX/UI
 > [Project: AI RESOURCE EDUCATION GENERATOR (in progress...)](https://blustery-mutually-douglas.ngrok-free.dev/)
