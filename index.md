@@ -69,7 +69,7 @@ layout: default
 > [Crime in the Metaverse: Virtual Violation, Reflexive Identity, and the Socio-Legal Frontiers of Embodiment](https://docs.google.com/document/d/1UV7IQYoSP9fMcp2zslnB9Y6Mi4el3J_s5-eJ5c6oT4s/edit?usp=sharing)  
 
 <br>
-<i>Oliwia Fabiszak</i>
+Oliwia Fabiszak
 
 <!-- <div style= "width: 100%; position: absolute; object-fit: cover; height: auto; left: 0; right: 0; margin: auto;">
 
