@@ -17,7 +17,8 @@ layout: default
 > [Presentation of the MiTM ARP Spoofing to Capture Login Creditentials](https://www.canva.com/design/DAGg3xtwk3g/gq5Xd5on8gtq64YfGfItOg/edit?utm_content=DAGg3xtwk3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Academic Writing 
-> [Contemporary Threats in Cyberspace](https://docs.google.com/document/d/1BTRolZwNwegQcVOoyXMnhyNwDfiNIiwj/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true) (Thesis from BA of science in Criminology) [Polish Version | Wersja Polska](https://docs.google.com/document/d/1nIX4Vgiiyk5H66rMnU04kWXa7Wq8FcXt/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true)
+> [Contemporary Threats in Cyberspace](https://docs.google.com/document/d/1BTRolZwNwegQcVOoyXMnhyNwDfiNIiwj/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true) (Thesis from BA of science in Criminology)
+> [Polish Version | Wersja Polska](https://docs.google.com/document/d/1nIX4Vgiiyk5H66rMnU04kWXa7Wq8FcXt/edit?usp=sharing&ouid=115948804800324195130&rtpof=true&sd=true)
 
 > [Using Bauman to Understand Uncertainty, Social Breakdown, and Modern Insecurity](https://docs.google.com/document/d/1z4JLO0mvkDaG6PnWFkBXp2XxRn_LQCctdzq7GgUFQ04/edit?usp=sharing)
 
